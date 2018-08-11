@@ -5,9 +5,8 @@
       <File FileName="XamAppCenterSample2018/Services/Implements/TranslateService.cs" Line="50" Column="10" />
       <File FileName="XamAppCenterSample2018/ViewModels/MainViewModel.cs" Line="14" Column="42" />
       <File FileName="iOS/Info.plist" />
-      <File FileName="iOS/Views/MainView.cs" Line="100" Column="13" />
+      <File FileName="iOS/Views/MainView.cs" Line="100" Column="1" />
       <File FileName="Droid/Properties/AndroidManifest.xml" Line="6" Column="12" />
-      <File FileName="Droid/Resources/layout/Main.axml" Line="52" Column="5" />
       <File FileName="Droid/Resources/values/Strings.xml" Line="7" Column="12" />
       <File FileName="Droid/Views/MainActivity.cs" Line="21" Column="16" />
       <File FileName="iOS/Main.cs" Line="17" Column="1" />

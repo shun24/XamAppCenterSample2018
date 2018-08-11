@@ -262,11 +262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shuntaro/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/XamAppCenterSample2018.csproj",
+      "projectUniqueName": "/VisualStudioProjects/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/XamAppCenterSample2018.csproj",
       "projectName": "XamAppCenterSample2018",
-      "projectPath": "/Users/shuntaro/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/XamAppCenterSample2018.csproj",
+      "projectPath": "/VisualStudioProjects/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/XamAppCenterSample2018.csproj",
       "packagesPath": "/Users/shuntaro/.nuget/packages/",
-      "outputPath": "/Users/shuntaro/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/obj",
+      "outputPath": "/VisualStudioProjects/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
