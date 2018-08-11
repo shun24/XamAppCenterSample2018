@@ -1,0 +1,10 @@
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/UITests/bin/Debug/XamAppCenterSample2018.UITests.dll
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/UITests/bin/Debug/XamAppCenterSample2018.UITests.pdb
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/UITests/bin/Debug/nunit.framework.dll
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/UITests/bin/Debug/Xamarin.UITest.dll
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/UITests/bin/Debug/nunit.framework.xml
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/UITests/bin/Debug/Xamarin.UITest.xml
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/UITests/obj/Debug/XamAppCenterSample2018.UITests.csprojResolveAssemblyReference.cache
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/UITests/obj/Debug/XamAppCenterSample2018.UITests.csproj.CoreCompileInputs.cache
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/UITests/obj/Debug/XamAppCenterSample2018.UITests.dll
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/UITests/obj/Debug/XamAppCenterSample2018.UITests.pdb

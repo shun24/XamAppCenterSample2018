@@ -7,3 +7,12 @@
 /Users/shuntaro/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/bin/Debug/netstandard2.0/XamAppCenterSample2018.pdb
 /Users/shuntaro/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/obj/Debug/netstandard2.0/XamAppCenterSample2018.dll
 /Users/shuntaro/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/obj/Debug/netstandard2.0/XamAppCenterSample2018.pdb
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/bin/Debug/netstandard2.0/XamAppCenterSample2018.deps.json
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/bin/Debug/netstandard2.0/XamAppCenterSample2018.dll
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/bin/Debug/netstandard2.0/XamAppCenterSample2018.pdb
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/obj/Debug/netstandard2.0/XamAppCenterSample2018.csprojResolveAssemblyReference.cache
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/obj/Debug/netstandard2.0/XamAppCenterSample2018.csproj.CoreCompileInputs.cache
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/obj/Debug/netstandard2.0/XamAppCenterSample2018.AssemblyInfoInputs.cache
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/obj/Debug/netstandard2.0/XamAppCenterSample2018.AssemblyInfo.cs
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/obj/Debug/netstandard2.0/XamAppCenterSample2018.dll
+/VisualStudioProjects/XamAppCenterSample2018/src/Start/XamAppCenterSample2018/obj/Debug/netstandard2.0/XamAppCenterSample2018.pdb
