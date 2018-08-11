@@ -1,0 +1,2 @@
+android.app.Application
+com.shun2420180811.XamAppCenterSample2018
